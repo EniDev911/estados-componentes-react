@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/estados-componentes-react/static/css/main.9f088a99.css",
-    "main.js": "/estados-componentes-react/static/js/main.c1d95a6f.js",
+    "main.js": "/estados-componentes-react/static/js/main.0b925b0a.js",
     "index.html": "/estados-componentes-react/index.html",
     "main.9f088a99.css.map": "/estados-componentes-react/static/css/main.9f088a99.css.map",
-    "main.c1d95a6f.js.map": "/estados-componentes-react/static/js/main.c1d95a6f.js.map"
+    "main.0b925b0a.js.map": "/estados-componentes-react/static/js/main.0b925b0a.js.map"
   },
   "entrypoints": [
     "static/css/main.9f088a99.css",
-    "static/js/main.c1d95a6f.js"
+    "static/js/main.0b925b0a.js"
   ]
 }
